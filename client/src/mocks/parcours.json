@@ -1,0 +1,23 @@
+[
+  {
+    "id_parcours": 1,
+    "lib_parcours": "Grand parcours",
+    "desc_parcours": "Partez à la découverte de l'histoire ancienne de la région avec notre parcours d'archéologie. Ce circuit de randonnée vous mènera à travers les sites les plus fascinants de la région, vous offrant un aperçu de la vie de nos ancêtres il y a des milliers d'années. ",
+    "img_parcours": "Grand parcours",
+    "liste_emplacements": [1, 2, 3]
+  },
+  {
+    "id_parcours": 1,
+    "lib_parcours": "Parcours local",
+    "desc_parcours": "Découvrez les secrets cachés de la région avec notre parcours local d'archéologie. Cette randonnée fascinante vous emmènera à travers les sentiers les moins connus de la région, où vous découvrirez des trésors archéologiques cachés qui ne sont pas connus du grand public.",
+    "img_parcours": "parcours.jpg",
+    "liste_emplacements": [2, 3, 4]
+  },
+  {
+    "id_parcours": 1,
+    "lib_parcours": "Parcours Travail Bouffe Travail",
+    "desc_parcours": "Parcours Travail Bouffe Travail",
+    "img_parcours": "Parcours Travail Bouffe Travail",
+    "liste_emplacements": [4, 5, 3, 2]
+  }
+]

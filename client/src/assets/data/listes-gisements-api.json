@@ -1,0 +1,106 @@
+[
+    {
+      "id_gisement": 1,
+      "lib_gisement": "Grotte de Niaux",
+      "desc_gisement": "La grotte de Niaux est un site archéologique situé dans les Pyrénées, en France, connu pour ses peintures rupestres préhistoriques.",
+      "latitude": 42.826579,
+      "longitude": 1.596545,
+      "img_gisement": "https://source.unsplash.com/900x900/?grotte"
+    },
+    {
+      "id_gisement": 2,
+      "lib_gisement": "Villa gallo-romaine de Montmaurin",
+      "desc_gisement": "La villa gallo-romaine de Montmaurin est un site archéologique situé en Haute-Garonne, en France, qui témoigne de la vie quotidienne des gallo-romains.",
+      "latitude": 43.203646,
+      "longitude": 0.787807,
+      "img_gisement": "https://source.unsplash.com/700x900/?villa-gallo-romaine"
+    },
+    {
+      "id_gisement": 3,
+      "lib_gisement": "Nécropole de La Courtine",
+      "desc_gisement": "La nécropole de La Courtine est un site archéologique situé dans le Limousin, en France, où ont été découverts des sarcophages mérovingiens.",
+      "latitude": 45.89109,
+      "longitude": 2.173236,
+      "img_gisement": "https://source.unsplash.com/900x700/?necropole"
+    },
+    {
+      "id_gisement": 4,
+      "lib_gisement": "Grotte de Nichet",
+      "desc_gisement": "La grotte de Nichet est un site préhistorique situé dans les Ardennes françaises. Elle a été découverte en 1906 et a livré de nombreux ossements d'animaux préhistoriques, dont des ours des cavernes, des rennes et des hyènes. Des traces d'activités humaines y ont également été trouvées, témoignant de la présence de chasseurs-cueilleurs dans la région il y a plus de 10 000 ans.",
+      "latitude": 49.77388333333333,
+      "longitude": 4.7190611111111114,
+      "img_gisement": "https://source.unsplash.com/600x700/?grotte"
+    },
+    {
+      "id_gisement": 5,
+      "lib_gisement": "Site de Vouziers",
+      "desc_gisement": "Le site archéologique de Vouziers est situé dans le département des Ardennes, en France. Il s'agit des ruines d'un château médiéval datant du XIIe siècle. Le château a été détruit au XVIIe siècle, mais des fouilles archéologiques ont révélé de nombreux vestiges intéressants, comme des armes, des poteries et des bijoux. Le site est ouvert au public et offre une vue imprenable sur la campagne environnante.",
+      "latitude": 49.3972,
+      "longitude": 4.71194,
+      "img_gisement": "https://source.unsplash.com/900x700/?field"
+    },
+    {
+      "id_gisement": 6,
+      "lib_gisement": "Champ de bataille de Sedan",
+      "desc_gisement": "Le champ de bataille de Sedan est un lieu historique situé dans les Ardennes françaises. C'est ici qu'a eu lieu une bataille célèbre de la guerre franco-prussienne en 1870. Le site a été préservé et comprend aujourd'hui un musée et un monument commémoratif. Les visiteurs peuvent y voir des canons, des uniformes et d'autres objets liés à l'histoire de la bataille.",
+      "latitude": 49.70183,
+      "longitude": 4.94645,
+      "img_gisement": "https://source.unsplash.com/900x500/?chateau"
+    },
+    {
+      "id_gisement": 7,
+      "lib_gisement": "Grotte du Dragon",
+      "desc_gisement": "La grotte du Dragon est un site préhistorique situé dans les Ardennes françaises. Elle doit son nom aux légendes qui entourent sa découverte, selon lesquelles un dragon y aurait vécu autrefois. Des fouilles archéologiques ont révélé des outils en pierre, des ossements animaux et des peintures rupestres datant de l'âge du bronze. Le site est ouvert au public et offre une expérience unique de l'histoire et de la géologie de la région.",
+      "latitude": 49.60556,
+      "longitude": 4.70306,
+      "img_gisement": "https://source.unsplash.com/900x1000/?grotte"
+    },
+    {
+      "id_gisement": 8,
+      "lib_gisement": "Fort de Charlemont",
+      "desc_gisement": "Le fort de Charlemont est une ancienne forteresse militaire dans les Ardennes françaises. Il a été construit au XVIIe siècle pour protéger la frontière française contre les attaques des troupes étrangères. Le fort a été restauré et peut être visité aujourd'hui. Les visiteurs peuvent y voir des canons, des casemates et des souterrains, ainsi que des expositions sur l'histoire militaire de la région.",
+      "latitude": 49.8036,
+      "longitude": 4.70833,
+      "img_gisement": "https://source.unsplash.com/900x1000/?castle"
+    },
+    {
+      "id_gisement": 9,
+      "lib_gisement": "Grotte de l'Ermitage",
+      "desc_gisement": "La grotte de l'Ermitage est un site préhistorique situé dans les Ardennes françaises. Elle a été découverte en 1830 et a livré de nombreux ossements d'animaux préhistoriques, dont des bisons et des chevaux. Des outils en pierre ont également été trouvés, témoignant de la présence de chasseurs-cueilleurs dans la région il y a plus de 15 000 ans. La grotte est ouverte au public et offre une expérience unique de l'histoire naturelle de la région.",
+      "latitude": 49.62806,
+      "longitude": 4.67556,
+      "img_gisement": "https://source.unsplash.com/900x500/?grotte"
+    },
+    {
+      "id_gisement": 10,
+      "lib_gisement": "Château de Montcornet",
+      "desc_gisement": "Le château de Montcornet est un château médiéval situé dans les Ardennes françaises. Il a été construit au XIIIe siècle et a été le théâtre de nombreux événements historiques au fil des siècles. Le château a été restauré et peut être visité aujourd'hui. Les visiteurs peuvent y voir des tours, des remparts et des salles d'apparat, ainsi que des expositions sur l'histoire de la région.",
+      "latitude": 49.73222,
+      "longitude": 4.26944,
+      "img_gisement": "https://source.unsplash.com/900x500/?chateau"
+    },
+    {
+      "id_gisement": 11,
+      "lib_gisement": "Champ de bataille de Rocroi",
+      "desc_gisement": "Le champ de bataille de Rocroi est un lieu historique situé dans les Ardennes françaises. C'est ici qu'a eu lieu une bataille célèbre pendant la guerre de Trente Ans en 1643. Le site a été préservé et comprend aujourd'hui un monument commémoratif et des panneaux d'information. Les visiteurs peuvent y voir les positions des armées et comprendre les enjeux stratégiques de la bataille.",
+      "latitude": 49.9036,
+      "longitude": 4.53833,
+      "img_gisement": "https://source.unsplash.com/900x1000/?field"
+    },
+    {
+      "id_gisement": 12,
+      "lib_gisement": "Abbaye de Saint-Michel-en-Thiérache",
+      "desc_gisement": "L'abbaye de Saint-Michel-en-Thiérache est une ancienne abbaye située dans les Ardennes françaises. Elle a été fondée au VIIe siècle et a été le centre spirituel de la région pendant des siècles. L'abbaye a été restaurée et peut être visitée aujourd'hui. Les visiteurs peuvent y voir des cloîtres, des chapelles et des bibliothèques, ainsi que des expositions sur l'histoire relig",
+      "latitude": 49.93639,
+      "longitude": 4.03778,
+      "img_gisement": "https://source.unsplash.com/900x1000/?abbaye"
+    },
+    {
+      "id_gisement": 13,
+      "lib_gisement": "Ferme de la Hérie",
+      "desc_gisement": "La ferme de la Hérie est une ancienne ferme fortifiée située dans les Ardennes françaises. Elle a été construite au XVIe siècle et a été le théâtre de nombreux événements historiques au fil des siècles. La ferme a été restaurée et peut être visitée aujourd'hui. Les visiteurs peuvent y voir des tours, des remparts et des écuries, ainsi que des expositions sur la vie agricole de la région.",
+      "latitude": 49.69111,
+      "longitude": 4.22639,
+      "img_gisement": "https://source.unsplash.com/900x1000/?old-farm"
+    }
+  ]

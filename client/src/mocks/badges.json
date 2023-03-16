@@ -1,0 +1,86 @@
+[
+  {
+    "id_badge": 1,
+    "name_badge": "Le Grimpeur",
+    "img_badge": "../../assets/images/badges/1.png",
+    "unlock_badge": false
+  },
+  {
+    "id_badge": 2,
+    "name_badge": "L'Explorateur",
+    "img_badge": "../../assets/images/badges/2.png",
+    "unlock_badge": false
+  },
+  {
+    "id_badge": 3,
+    "name_badge": "Le Guide",
+    "img_badge": "../../assets/images/badges/3.png",
+    "unlock_badge": true
+  },
+  {
+    "id_badge": 4,
+    "name_badge": "Le Cartographe",
+    "img_badge": "../../assets/images/badges/4.png",
+    "unlock_badge": true
+  },
+  {
+    "id_badge": 5,
+    "name_badge": "Le Curieux",
+    "img_badge": "../../assets/images/badges/5.png",
+    "unlock_badge": false
+  },
+  {
+    "id_badge": 6,
+    "name_badge": "Le Chercheur",
+    "img_badge": "../../assets/images/badges/6.png",
+    "unlock_badge": true
+  },
+  {
+    "id_badge": 7,
+    "name_badge": "Le Débutant",
+    "img_badge": "../../assets/images/badges/7.png",
+    "unlock_badge": true
+  },
+  {
+    "id_badge": 8,
+    "name_badge": "L'Attentif",
+    "img_badge": "../../assets/images/badges/8.png",
+    "unlock_badge": true
+  },
+  {
+    "id_badge": 9,
+    "name_badge": "Le Géologue",
+    "img_badge": "../../assets/images/badges/9.png",
+    "unlock_badge": false
+  },
+  {
+    "id_badge": 10,
+    "name_badge": "Le Curieux",
+    "img_badge": "../../assets/images/badges/10.png",
+    "unlock_badge": false
+  },
+  {
+    "id_badge": 11,
+    "name_badge": "La Carrière",
+    "img_badge": "../../assets/images/badges/11.png",
+    "unlock_badge": false
+  },
+  {
+    "id_badge": 12,
+    "name_badge": "Le Paléontologue",
+    "img_badge": "../../assets/images/badges/12.png",
+    "unlock_badge": false
+  },
+  {
+    "id_badge": 13,
+    "name_badge": "Le Portugais",
+    "img_badge": "../../assets/images/badges/13.png",
+    "unlock_badge": false
+  },
+  {
+    "id_badge": 14,
+    "name_badge": "L'Archéologue",
+    "img_badge": "../../assets/images/badges/14.png",
+    "unlock_badge": false
+  }
+]
